@@ -5,7 +5,7 @@ function Experience() {
   const [currentTab, setCurrentTab] = useState(0);
   return (
     <section
-      className="bg-gray-800 text-gray-100  h-screen flex flex-col items-center justify-center"
+      className="bg-gray-900 text-gray-100  h-screen flex flex-col items-center justify-center"
       id="exp"
     >
       <div className="flex items-center -mx-4 space-x-2 overflow-x-auto overflow-y-hidden sm:justify-center flex-nowrap bg-gray-800 text-gray-100">
