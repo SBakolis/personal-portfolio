@@ -1,7 +1,10 @@
 function Overview() {
   return (
     <>
-      <section className="text-gray-400 body-font bg-gray-800 h-screen flex flex-col items-center justify-center">
+      <section
+        className="text-gray-400 body-font bg-gray-800 h-screen flex flex-col items-center justify-center"
+        id="overview"
+      >
         <div className="container px-5 py-24 my-24 mx-auto">
           <div className="flex flex-wrap w-full mb-20 flex-col items-center text-center">
             <h1 className="sm:text-3xl text-2xl font-medium title-font mb-2 text-white">

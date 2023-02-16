@@ -23,7 +23,7 @@ export default function Sidebar() {
           <li className=" bg-gray-800  text-gray-50">
             <a
               rel="noopener noreferrer"
-              href="#"
+              href="#welcome"
               className="flex items-center p-2 space-x-3 rounded-md"
             >
               <svg
@@ -39,7 +39,7 @@ export default function Sidebar() {
           <li>
             <a
               rel="noopener noreferrer"
-              href="#"
+              href="#overview"
               className="flex items-center p-2 space-x-3 rounded-md"
             >
               <svg
@@ -72,7 +72,7 @@ export default function Sidebar() {
           <li>
             <a
               rel="noopener noreferrer"
-              href="#"
+              href="#portfolio"
               className="flex items-center p-2 space-x-3 rounded-md"
             >
               <svg
@@ -90,7 +90,7 @@ export default function Sidebar() {
           <li>
             <a
               rel="noopener noreferrer"
-              href="#"
+              href="#contact"
               className="flex items-center p-2 space-x-3 rounded-md"
             >
               <svg

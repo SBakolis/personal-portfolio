@@ -4,6 +4,7 @@ import Welcome from "../components/Welcome";
 import Overview from "../components/Overview";
 import Experience from "../components/Experience";
 import Portfolio from "../components/Portfolio";
+import Contact from "../components/Contact";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -21,6 +22,7 @@ export default function Home() {
         <Overview />
         <Experience />
         <Portfolio />
+        <Contact />
       </div>
     </>
   );
