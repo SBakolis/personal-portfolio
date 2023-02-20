@@ -8,7 +8,7 @@ function Experience() {
       className="bg-gray-900 text-gray-100  h-screen flex flex-col items-center justify-center"
       id="exp"
     >
-      <div className="flex items-center -mx-4 space-x-2 overflow-x-auto overflow-y-hidden sm:justify-center flex-nowrap bg-gray-800 text-gray-100">
+      <div className="flex items-center -mx-4 space-x-2 overflow-x-auto overflow-y-hidden sm:justify-center flex-nowrap text-gray-100">
         <a
           rel="noopener noreferrer"
           href="#"

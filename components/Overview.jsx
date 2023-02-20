@@ -8,11 +8,10 @@ function Overview() {
         <div className="container px-5 py-24 my-24 mx-auto">
           <div className="flex flex-wrap w-full mb-20 flex-col items-center text-center">
             <h1 className="sm:text-3xl text-2xl font-medium title-font mb-2 text-white">
-              Pitchfork Kickstarter Taxidermy
+              Overview
             </h1>
             <p className="lg:w-1/2 w-full leading-relaxed text-opacity-80">
-              Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical
-              gentrify, subway tile poke farm-to-table.
+              Stuff I'm most experienced in or greatly enjoy
             </p>
           </div>
           <div className="flex flex-wrap -m-4">
@@ -22,9 +21,9 @@ function Overview() {
                   <svg
                     fill="none"
                     stroke="currentColor"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth="2"
                     className="w-6 h-6"
                     viewBox="0 0 24 24"
                   >
@@ -32,11 +31,11 @@ function Overview() {
                   </svg>
                 </div>
                 <h2 className="text-lg text-white font-medium title-font mb-2">
-                  Shooting Stars
+                  Frontend Development
                 </h2>
                 <p className="leading-relaxed text-base">
-                  Fingerstache flexitarian street art 8-bit waist co, subway
-                  tile poke farm.
+                  I'm very good at translating UI/UX designs from designer tools
+                  (Figma, AdobeXD) to interactive websites.
                 </p>
               </div>
             </div>
@@ -46,9 +45,9 @@ function Overview() {
                   <svg
                     fill="none"
                     stroke="currentColor"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth="2"
                     className="w-6 h-6"
                     viewBox="0 0 24 24"
                   >
@@ -58,11 +57,11 @@ function Overview() {
                   </svg>
                 </div>
                 <h2 className="text-lg text-white font-medium title-font mb-2">
-                  The Catalyzer
+                  UI/UX Design
                 </h2>
                 <p className="leading-relaxed text-base">
-                  Fingerstache flexitarian street art 8-bit waist co, subway
-                  tile poke farm.
+                  I greatly enjoy designing appealing and user friendly
+                  interfaces.
                 </p>
               </div>
             </div>
@@ -72,9 +71,9 @@ function Overview() {
                   <svg
                     fill="none"
                     stroke="currentColor"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth="2"
                     className="w-6 h-6"
                     viewBox="0 0 24 24"
                   >
@@ -83,11 +82,11 @@ function Overview() {
                   </svg>
                 </div>
                 <h2 className="text-lg text-white font-medium title-font mb-2">
-                  Neptune
+                  Android App Development
                 </h2>
                 <p className="leading-relaxed text-base">
-                  Fingerstache flexitarian street art 8-bit waist co, subway
-                  tile poke farm.
+                  I firmly believe the future is mobile, I have developed
+                  multiple apps for the android platform.
                 </p>
               </div>
             </div>
@@ -97,9 +96,9 @@ function Overview() {
                   <svg
                     fill="none"
                     stroke="currentColor"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth="2"
                     className="w-6 h-6"
                     viewBox="0 0 24 24"
                   >
@@ -107,11 +106,11 @@ function Overview() {
                   </svg>
                 </div>
                 <h2 className="text-lg text-white font-medium title-font mb-2">
-                  Melanchole
+                  Game Development
                 </h2>
                 <p className="leading-relaxed text-base">
-                  Fingerstache flexitarian street art 8-bit waist co, subway
-                  tile poke farm.
+                  I love game development and it's how I spend much of my spare
+                  time I've stuck with Unity since it's early days.
                 </p>
               </div>
             </div>
@@ -121,9 +120,9 @@ function Overview() {
                   <svg
                     fill="none"
                     stroke="currentColor"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth="2"
                     className="w-6 h-6"
                     viewBox="0 0 24 24"
                   >
@@ -131,11 +130,11 @@ function Overview() {
                   </svg>
                 </div>
                 <h2 className="text-lg text-white font-medium title-font mb-2">
-                  Bunker
+                  Blockchain
                 </h2>
                 <p className="leading-relaxed text-base">
-                  Fingerstache flexitarian street art 8-bit waist co, subway
-                  tile poke farm.
+                  I'm constantly researching the field, beginner at Solidity and
+                  Move.
                 </p>
               </div>
             </div>
@@ -145,9 +144,9 @@ function Overview() {
                   <svg
                     fill="none"
                     stroke="currentColor"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth="2"
                     className="w-6 h-6"
                     viewBox="0 0 24 24"
                   >
@@ -155,11 +154,11 @@ function Overview() {
                   </svg>
                 </div>
                 <h2 className="text-lg text-white font-medium title-font mb-2">
-                  Ramona Falls
+                  Automation
                 </h2>
                 <p className="leading-relaxed text-base">
-                  Fingerstache flexitarian street art 8-bit waist co, subway
-                  tile poke farm.
+                  I enjoy writing end to end website tests and scrapers with
+                  Selenium.
                 </p>
               </div>
             </div>

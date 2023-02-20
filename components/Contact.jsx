@@ -1,7 +1,7 @@
 function Contact() {
   return (
     <section
-      classNameNameName="bg-gray-900 text-gray-100 h-screen flex flex-col items-center justify-center h-screen"
+      className="bg-gray-900 text-gray-100 h-screen flex flex-col items-center justify-center h-screen"
       id="contact"
     >
       <div className="container px-5 py-24 mx-auto flex sm:flex-nowrap flex-wrap relative h-screen">
@@ -11,10 +11,6 @@ function Contact() {
             height="100%"
             title="map"
             className="absolute inset-0 filter grayscale opacity-30 contrast-80"
-            frameborder="0"
-            marginheight="0"
-            marginwidth="0"
-            scrolling="no"
             src="https://maps.google.com/maps?width=100%&amp;height=600&amp;hl=en&amp;q=Athens,Greece&amp;ie=UTF8&amp;t=&amp;z=14&amp;iwloc=B&amp;output=embed"
           ></iframe>
           <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
@@ -49,7 +45,7 @@ function Contact() {
             Post-ironic portland shabby chic echo park, banjo fashion axe
           </p>
           <div className="relative mb-4">
-            <label for="name" className="leading-7 text-sm text-gray-400">
+            <label htmlFor="name" className="leading-7 text-sm text-gray-400">
               Name
             </label>
             <input
@@ -60,7 +56,7 @@ function Contact() {
             />
           </div>
           <div className="relative mb-4">
-            <label for="email" className="leading-7 text-sm text-gray-400">
+            <label htmlFor="email" className="leading-7 text-sm text-gray-400">
               Email
             </label>
             <input
@@ -71,7 +67,10 @@ function Contact() {
             />
           </div>
           <div className="relative mb-4">
-            <label for="message" className="leading-7 text-sm text-gray-400">
+            <label
+              htmlFor="message"
+              className="leading-7 text-sm text-gray-400"
+            >
               Message
             </label>
             <textarea

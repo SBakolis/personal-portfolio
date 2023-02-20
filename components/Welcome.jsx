@@ -32,11 +32,9 @@ function Welcome() {
             </div>
 
             <p className="leading-relaxed mb-8">
-              Meggings kinfolk echo park stumptown DIY, kale chips beard
-              jianbing tousled. Chambray dreamcatcher trust fund, kitsch vice
-              godard disrupt ramps hexagon mustache umami snackwave tilde
-              chillwave ugh. Pour-over meditation PBR&amp;B pickled ennui celiac
-              mlkshk freegan photo booth af fingerstache pitchfork.
+              Frontend developer, hobbyist game developer, blockchain
+              enthusiast. Always eager to learn new technologies and obtain more
+              experience.
             </p>
             <div className="flex justify-center">
               <button className="inline-flex text-white bg-purple-500 border-0 py-2 px-6 focus:outline-none hover:bg-purple-600 rounded text-lg">

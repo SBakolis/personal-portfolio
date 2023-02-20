@@ -13,13 +13,14 @@ function Portfolio() {
           (item) =>
             item.filters.findIndex((filter) => filter === activeFilter) > -1
         )
-        .map((item) => <PortfolioCard item={item} />)
+        .map((item, i) => <PortfolioCard item={item} key={i} />)
     );
   }, [activeFilter]);
 
-  const filterBeans = filters.map((filter) => (
+  const filterBeans = filters.map((filter, i) => (
     <Bean
       text={filter}
+      key={i}
       setFilter={setActiveFilter}
       currentFilter={activeFilter}
     />
